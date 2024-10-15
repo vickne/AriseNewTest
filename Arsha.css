@@ -1,0 +1,12 @@
+.progress{
+   border-top-left-radius: 0%;
+   border-top-right-radius: 0%;
+   border-bottom-left-radius: 0%;
+   border-bottom-right-radius: 0%;
+}
+.seventh_container{
+   background-image: url(./cta-bg.jpg);
+   background-position: center;
+   background-size: cover;
+   
+}
